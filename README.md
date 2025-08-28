@@ -9,3 +9,4 @@ In this project, I will be creating a website for recipes. This will involve lin
 Photo Credits:
 Marherita_Pizza: ShareAlike 3.0 Unported Deed
 Fried_Chickoor: ShareAlike 4.0 International Deed
+Delectable_Ice_Cubes: CC0 1.0 Universal Deed
