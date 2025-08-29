@@ -10,3 +10,4 @@ Photo Credits:
 Marherita_Pizza: ShareAlike 3.0 Unported Deed
 Fried_Chickoor: ShareAlike 4.0 International Deed
 Delectable_Ice_Cubes: CC0 1.0 Universal Deed
+Bazaar_Recipes: Public Domain
