@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(218, 119, 37);
+    color: #4a0f0f;
+    font-family: Helvetica, sans-serif;
+}
+
+div.image, div.ingredients, .header, .recipe.description{
+    text-align:center;
+}
+
+.header.intro {
+    font-weight: 800;
+    color: #b5091d;
+    font-size: 50px;
+}
+
+.story.description, .serving, .steps {
+    margin-left:80px;
+    margin-right:80px;
+
+}
+
