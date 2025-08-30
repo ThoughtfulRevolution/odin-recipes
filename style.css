@@ -8,11 +8,7 @@ div.image, div.ingredients, .header, .recipe.description{
     text-align:center;
 }
 
-.header.intro {
-    font-weight: 800;
-    color: #b5091d;
-    font-size: 50px;
-}
+
 
 .story.description, .serving, .steps {
     margin-left:80px;
@@ -20,3 +16,19 @@ div.image, div.ingredients, .header, .recipe.description{
 
 }
 
+.header.intro, .header.subtag, .front{
+    background-color:black;
+}
+
+.header.subtag {
+    color: white;
+}
+
+.header.intro {
+    font-weight: 800;
+    color: #b5091d;
+    font-size: 50px;
+}
+div.front{
+    margin: -34px
+}
